@@ -68,11 +68,26 @@ Software & 3D Developer | PHP & MaxScript Expert | Mobile App Developer (Java, K
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<!-- Primary stats (github-readme-stats) -->
 <a href="https://github.com/ibrahim-elgarhy">
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahim-elgarhy&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-elgarhy&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-elgarhy&show_icons=true&theme=tokyonight" alt="Ibrahim's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-elgarhy&layout=compact&theme=tokyonight" alt="Top languages" width="48%"/>
 </a>
+
+<br>
+
+<!-- Activity graph fallback -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-elgarhy&theme=react-dark" alt="activity graph" width="100%"/>
+
+<br>
+
+<!-- Simple fallback badges (shields.io) -->
+[![Followers](https://img.shields.io/github/followers/ibrahim-elgarhy?label=Followers&style=for-the-badge)](https://github.com/ibrahim-elgarhy)
+[![Total Repos](https://img.shields.io/github/repo-size/ibrahim-elgarhy/KitchenMax?label=KitchenMax%20size&style=for-the-badge)](https://github.com/ibrahim-elgarhy/KitchenMax)
+
 </div>
+
 
 ---
 
